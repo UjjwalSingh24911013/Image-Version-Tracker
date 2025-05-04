@@ -1,8 +1,4 @@
-Sure! Here's a complete **`README.md`** file for your **Image Version Tracker** project:
-
----
-
-```markdown
+markdown
 # 🐳 Image Version Tracker
 
 A lightweight tool to **track and log Docker container image versions and metadata** (such as version tags, commit hashes, and timestamps) for auditing and historical reference.
@@ -136,16 +132,3 @@ Let me know if you'd like the Docker Compose config included.
 ## 📄 License
 
 MIT License
-
----
-
-## ✍️ Author
-
-Built by \[Your Name] · Contributions welcome!
-
-```
-
----
-
-Would you like me to generate the `docker-compose.yml` as well to make it fully containerized?
-```
